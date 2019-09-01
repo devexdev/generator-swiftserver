@@ -31,7 +31,7 @@
     "handlebars": "^4.1.2",
     "ibm-openapi-support": "^0.0.12",
     "js-yaml": "^3.13.1",
-    "yeoman-generator": "^1.1.1"
+    "yeoman-generator": "^4.0.2"
   },
   "devDependencies": {
     "codecov": "^3.0.0",
